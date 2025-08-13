@@ -19,7 +19,7 @@ It’s a **React + Flask** app powered by a **pretrained AI model** (via Hugging
 ## 🖼 Preview
 
 ### **Homepage**
-![Homepage Screenshot](docs/homepage.png)
+![Homepage Screenshot](https://github.com/anmol12-gib/fake-news-detector/blob/f65cc59b27c9ab5bb0836467097b02e60c084889/interface.png)
 
 ### **Example Positive Prediction**
 ![Prediction Screenshot](docs/result.png)
