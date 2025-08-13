@@ -30,4 +30,24 @@ It’s a **React + Flask** app powered by a **pretrained AI model** (via Hugging
 ---
 
 ## 🗂 Project Structure
+project-root/
+│
+├── backend/
+│ ├── app.py # Flask backend API — handles requests from the frontend and runs the AI model
+│ ├── requirements.txt # Python dependencies (Flask, Flask-CORS, transformers, etc.)
+│
+├── frontend/
+│ ├── src/
+│ │ ├── App.js # Main React component — handles UI and talks to the backend
+│ │ ├── App.css # Styling for the app (fonts, colors, buttons)
+│ │ ├── components/ # Reusable UI components
+│ │ └── assets/ # Images, icons
+│ ├── package.json # Frontend dependencies (React, Axios, etc.)
+│ └── public/ # Public assets
+│
+├── docs/
+│ ├── homepage.png # Screenshot of homepage
+│ ├── result.png # Screenshot of results
+│
+└── README.md # This file
 
