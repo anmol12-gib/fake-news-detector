@@ -7,12 +7,12 @@ It’s a **React + Flask** app powered by a **pretrained AI model** (via Hugging
 
 ---
 
-## ✨ Features
-- ⚡ **Instant results** — no need to train anything, it’s ready to go out of the box.  
-- 🧠 **Understands context** — uses a pretrained language model to analyze the headline.  
-- 📊 **Confidence score** — so you know how certain the model is.  
-- 📝 **AI Summary** — gives you a quick, human-readable explanation of the headline.  
-- 📱 Fully responsive — works on both desktop and mobile.
+## Features
+- **Instant results** — no need to train anything, it’s ready to go out of the box.  
+- **Understands context** — uses a pretrained language model to analyze the headline.  
+- **Confidence score** — so you know how certain the model is.  
+- **AI Summary** — gives you a quick, human-readable explanation of the headline.  
+- Fully responsive — works on both desktop and mobile.
 
 ---
 
